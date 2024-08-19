@@ -7,7 +7,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am an aspiring Geospatial Data Engineer :globe_with_meridians: in the United States.
+I am an aspiring GIS/GEOINT Developer :globe_with_meridians: in the United States.
 - :school: I'm majoring in Information Technology with a minor in Geospatial Information Systems (GIS)
 
 - :seedling: Exploring open-source software for future projects (Postgres/PostGIS, QGIS)
